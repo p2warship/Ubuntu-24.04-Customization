@@ -3,7 +3,9 @@
 #
 
 sudo apt install build-essential -y
+
 sudo apt install gnome-tweaks -y
+
 sudo apt install gnome-shell-extension-manager -y
 
 cd $HOME/Downloads/
